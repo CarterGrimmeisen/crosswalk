@@ -39,7 +39,7 @@
     "typescript-json-schema": "^0.43.0"
   },
   "dependencies": {
-    "ajv": "^6.12.6",
+    "ajv": "^7.2.1",
     "path-to-regexp": "^6.2.0"
   },
   "peerDependencies": {
